@@ -1,7 +1,7 @@
 # KnightsTour
 
 
-This Repository contains a HTML file ,CSS and JS file
+This Repository contains a HTML ,CSS and JS file
 --------------------------------- HTML ------------------------------------------
 
 It contains some divs and paragraph tags which are created to handle stats for the game
