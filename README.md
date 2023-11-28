@@ -3,20 +3,21 @@
 
 This Repository contains a HTML ,CSS and JS file
 
-     --------------------------------- HTML ------------------------------------------
+    -------------------------------------------------> HTML <---------------------------------------------------------------------
 
 It contains some divs and paragraph tags which are created to handle stats for the game
 Along with this a div for Chess Board where cells are created dynamically using javascript
 And A reset Button
 
-    --------------------------------- CSS ------------------------------------------
+    -------------------------------------------------> CSS <---------------------------------------------------------------------
+
 This Css file contains styling for Chess Board and stats board 
 Color of black and white cells 
 To differenctiate visited and unvisited cells I used red and blue colors
 It contains some styling and transitions for Stats board 
 stying for Reset Button
 
-    --------------------------------- Javascript ------------------------------------------
+    -------------------------------------------------> Javascript <----------------------------------------------------------------
 
 When Html file is completly Loaded We call a funtion to create ChessBoard
 
