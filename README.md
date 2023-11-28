@@ -26,19 +26,19 @@ Adding a Event Listner to every Cell to identify clicks and appending to Chess B
 
                             AddKnight()
 It is used to add a move a Knight accors the chess board
-We give the class name piece to Knight 
+We give the class name "piece" to Knight 
 Using getBoundingClientRect() we can get current location of knight in particular cell
 Append Knight to cell and insert the cordinates to visited list
 
                             Clicked()
 Taking the cordinates of Clicked Cell (row and column)
 
-check if difference between Row difference between Knight row and clicked row === 2 and difference between Knight column and clicked column===1 or vice versa (2,1) or (1,2) 
+check if difference between Knight row and clicked row === 2 and difference between Knight column and clicked column===1 or vice versa (2,1) or (1,2) 
 if yes then append the knight to this cell 
-update the row and column of knight and add the cordinated to visted list
+update the row and column of knight and add the cordinates to visted list
 
                            UpdateStats()
-It is used to update the stated it targets the div with Id and update the stats
+It is used to update the stats ,it targets the div with Id of different stats like moves ,visited etc.. and update the stats
 
                            ResetGame()
-Used to clear and Board and stats
+Used to Reset The Board and stats
