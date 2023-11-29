@@ -30,7 +30,7 @@ body {
   color: white;
 }
 .cell.visited {
-  border: 2px solid lightgreen !important;
+  border: 1.5px solid lightgreen !important;
 }
 #stats {
   background-color: #fff;
