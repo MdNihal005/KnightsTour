@@ -30,10 +30,7 @@ body {
   color: white;
 }
 .cell.visited {
-  border: 2px solid darkblue !important;
-}
-.cell:not(.visited) {
-  border: 1px solid red !important;
+  border: 2px solid lightgreen !important;
 }
 #stats {
   background-color: #fff;
@@ -51,8 +48,8 @@ body {
   font-size: 1.2rem;
 }
 #board {
-  width: 400px;
-  height: 400px;
+  width: 450px;
+  height: 450px;
   border: 1px solid #000;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
