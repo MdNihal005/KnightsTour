@@ -27,10 +27,10 @@ body {
 }
 .black {
   background-color: #000;
-  color: white;
+  color: black;
 }
 .cell.visited {
-  border: 1.5px solid lightgreen !important;
+  background-color:lightgreen;
 }
 #stats {
   background-color: #fff;
