@@ -49,6 +49,7 @@ function addKnight(row, col) {
   KnightPosition.row = row;
   KnightPosition.col = col;
   cell.appendChild(knight);
+  cell.classList.add("visited");
   TotalVisited.add(`${row},${col}`);
 }
 
