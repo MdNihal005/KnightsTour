@@ -31,7 +31,7 @@ body {
 }
 .cell.visited {
   background-color:rgba(123, 223, 160, 0.42);
-  border:1px solid black !important ;
+  border: 1px solid black !important;
 }
 #stats {
   background-color: #fff;
