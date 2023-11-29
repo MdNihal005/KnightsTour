@@ -30,7 +30,7 @@ body {
   color: black;
 }
 .cell.visited {
-  background-color:lightgreen;
+  background-color:rgba(123, 223, 160, 0.42);
 }
 #stats {
   background-color: #fff;
